@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MyPApplet extends PApplet {
 
-    private String URL = "/home/taikara/myProjects/javaProgramms/data/palmTrees.jpg";
+    private String URL = "/Users/taikara/myProjects/javaProgramms/data/palmTrees.jpg";
     private PImage backGroundImg;
 
     public void setup(){
@@ -31,8 +31,6 @@ public class MyPApplet extends PApplet {
         int hour   = (int) ((System.currentTimeMillis() / (1000*60*60)) % 24);
 
         int min = (int)((System.currentTimeMillis()/(1000*60*60))) - (hour*60);
-
-        System.out.println(hour);
 
         if (hour >= 5 && hour <= 6) {
             fill(255, 209, 0);
