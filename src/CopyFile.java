@@ -32,13 +32,7 @@ public class CopyFile {
             do{
                 i = fin.read();
                 if(i != -1 ){
-                    if(i == 32){
-                        fout.write(45);
-                    }
-                    else{
                         fout.write(i);
-                    }
-
                 }
             }while (i!=-1);
 

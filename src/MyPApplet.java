@@ -18,30 +18,23 @@ public class MyPApplet extends PApplet {
         backGroundImg.resize(0, height);
         image(backGroundImg, 0, 0);
 
-        int [] fillColor = sunColor();
+        int [] fillColor = sunColor(second());
         fill(fillColor[0], fillColor[1], fillColor[2]);
 
         ellipse(width/4, height/5, width/5, height/5);
     }
 
-    private int [] sunColor() {
-        int[] suncolorVlaues = new int[3];
+    private int [] sunColor(float seccond) {
 
+        int[] sunColorVlaues = new int[3];
 
-        int hour   = (int) ((System.currentTimeMillis() / (1000*60*60)) % 24);
+        float diffFrom30 = Math.abs(30-seccond);
 
-        int min = (int)((System.currentTimeMillis()/(1000*60*60))) - (hour*60);
+        float ratio = diffFrom30/30;
+        sunColorVlaues[0]=(int)(255*ratio);
+        sunColorVlaues[1]=(int)(255*ratio);
+        sunColorVlaues[2]=0;
 
-        if (hour >= 5 && hour <= 6) {
-            fill(255, 209, 0);
-        } else if (hour == 20 && min < 30) {
-            fill(255, 255, 0);
-        } else if (min > 30 && min < 45 && hour < 21 && hour > 20) {
-            fill(189, 190, 192);
-        } else {
-            fill(255, 209, 0);
-        }
-
-        return suncolorVlaues;
+        return sunColorVlaues;
     }
 }
