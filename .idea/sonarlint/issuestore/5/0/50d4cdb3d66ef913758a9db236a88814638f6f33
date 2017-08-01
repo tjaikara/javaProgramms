@@ -1,0 +1,9 @@
+
+usquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÛÞ‰Ãûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+Jsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
