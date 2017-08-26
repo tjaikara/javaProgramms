@@ -2,61 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ccc8e7d-b14a-4e1d-b3f3-038590c1752f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/general/Transport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/general/enumeratiion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Containment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericBoundedTypes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericConstructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericWildCardDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/MyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/NumericFns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/SimpGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Summation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/fixedqueue/GenFixedQ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/fixedqueue/GenQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/fixedqueue/IGenQ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/fixedqueue/QueueEmptyException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/fixedqueue/QueueFullException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadComm/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadComm/ThreadComm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadComm/TickTock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadSuspend/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadSuspend/Suspend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadsynchronize/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadsynchronize/SumArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threads/threadsynchronize/Sync.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trafficlight/TrafficLight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trafficlight/TrafficLightColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trafficlight/TrafficLightSimulator.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/CompareFiles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/CopyFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/MyPApplet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/RemoveDuplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/TruthTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/WebDriverTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/bookDemo/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/bookDemo/BookDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/threads/ExtendedThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/threads/MoreThreads.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/threads/MyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/threads/MyThreadExt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/javaProgramms/threads/UseThreads.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bookDemo/Book.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bookDemo/BookDemo.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CompareFiles.java" afterPath="$PROJECT_DIR$/src/general/CompareFiles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CopyFile.java" afterPath="$PROJECT_DIR$/src/general/CopyFile.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MyPApplet.java" afterPath="$PROJECT_DIR$/src/applet/MyPApplet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterPath="$PROJECT_DIR$/src/general/RemoveDuplicate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TruthTable.java" afterPath="$PROJECT_DIR$/src/general/TruthTable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/WebDriverTest.java" afterPath="$PROJECT_DIR$/src/general/WebDriverTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/threads/ExtendedThread.java" afterPath="$PROJECT_DIR$/src/threads/threadbasic/ExtendedThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/threads/MoreThreads.java" afterPath="$PROJECT_DIR$/src/threads/threadbasic/MultiThreads.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/threads/MyThread.java" afterPath="$PROJECT_DIR$/src/threads/threadbasic/MyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/threads/MyThreadExt.java" afterPath="$PROJECT_DIR$/src/threads/threadbasic/MyThreadExt.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/threads/UseThreads.java" afterPath="$PROJECT_DIR$/src/threads/threadbasic/UseThreads.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferencesDemoTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/IntPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/MyIntNum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/MyIntNumPredicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/MyIntPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodReferences/StaticMethodReference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/LambdaArgumentDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/MyParamValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/MyValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/NumericFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/NumericTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/SomeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/StringTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/blockLambda.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/expressionLambda.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambda/genericInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes.txt" afterPath="$PROJECT_DIR$/notes.txt" />
     </list>
@@ -81,7 +43,20 @@
     <favorites_list name="javaProgramms" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyPApplet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/applet/MyPApplet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,22 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/threads/synchronize/threadCommunication/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/threads/synchronize/SumArray.java" />
-        <option value="$PROJECT_DIR$/src/threads/synchronize/threadSuspend/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/threads/synchronize/threadSuspend/Suspend.java" />
-        <option value="$PROJECT_DIR$/src/enumeration/enumeratiion.java" />
-        <option value="$PROJECT_DIR$/src/WebDriverTest.java" />
-        <option value="$PROJECT_DIR$/src/enumeratiion.java" />
-        <option value="$PROJECT_DIR$/src/bookDemo/Book.java" />
-        <option value="$PROJECT_DIR$/src/bookDemo/BookDemo.java" />
-        <option value="$PROJECT_DIR$/src/threadCommunication/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/threadSuspend/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/threads/threadbasic/MultiThreads.java" />
-        <option value="$PROJECT_DIR$/src/thread/threadCommunication/threadbasic/MultiThreads.java" />
-        <option value="$PROJECT_DIR$/src/thread/threadCommunication/threadComm/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/threads/threadComm/TickTock.java" />
-        <option value="$PROJECT_DIR$/src/general/CompareFiles.java" />
         <option value="$PROJECT_DIR$/src/general/RemoveDuplicate.java" />
         <option value="$PROJECT_DIR$/src/general/TruthTable.java" />
         <option value="$PROJECT_DIR$/src/general/WebDriverTest.java" />
@@ -159,6 +118,22 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Test.java" />
         <option value="$PROJECT_DIR$/src/general/CopyFile.java" />
+        <option value="$PROJECT_DIR$/src/lambda/expressionLambda.java" />
+        <option value="$PROJECT_DIR$/src/lambda/blockLambda.java" />
+        <option value="$PROJECT_DIR$/src/lambda/genericInterface.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LambdaArgumentDemo.java" />
+        <option value="$PROJECT_DIR$/src/lambda/MyParamValue.java" />
+        <option value="$PROJECT_DIR$/src/lambda/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/SomeTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/NumericFunc.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/IntPredicate.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/MyIntPredicates.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/MyIntNum.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferences.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/StaticMethodReference.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/MyIntNumPredicate.java" />
+        <option value="$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferencesDemoTwo.java" />
+        <option value="$PROJECT_DIR$/src/applet/LifeExpectancy.java" />
       </list>
     </option>
   </component>
@@ -168,11 +143,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="688" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="752" />
-    <option name="height" value="803" />
+    <option name="width" value="1440" />
+    <option name="height" value="791" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -192,9 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,20 +178,29 @@
               <item name="javaProgramms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaProgramms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProgramms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="applet" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
   </component>
   <component name="RecentsManager">
@@ -247,20 +227,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TruthTable">
-    <configuration name="MyStringList" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="204680" />
-      <option name="MAIN_CLASS_NAME" value="MyStringList" />
+  <component name="RunManager" selected="Applet.myApplet">
+    <configuration name="InstanceMethodReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MethodReferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MethodReferences.InstanceMethodReferences" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <module name="javaProgramms" />
+      <envs />
+    </configuration>
+    <configuration name="LambdaArgumentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaArgumentDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaProgramms" />
       <envs />
     </configuration>
     <configuration name="Sync" type="Application" factoryName="Application">
@@ -275,36 +278,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="javaProgramms" />
-      <envs />
-    </configuration>
-    <configuration name="Test (1)" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="204680" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="Test" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="204788" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
       <envs />
     </configuration>
     <configuration name="ThreadComm" type="Application" factoryName="Application">
@@ -338,21 +311,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="javaProgramms" />
-      <envs />
-    </configuration>
-    <configuration name="ZonedDateTimeTest" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="204680" />
-      <option name="MAIN_CLASS_NAME" value="ZonedDateTimeTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -849,6 +807,44 @@
       <module name="javaProgramms" />
       <envs />
     </configuration>
+    <configuration name="expressionLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lambda.expressionLambda" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaProgramms" />
+      <envs />
+    </configuration>
+    <configuration name="genericInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lambda.genericInterface" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaProgramms" />
+      <envs />
+    </configuration>
     <configuration name="myApplet" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="applet.MyPApplet" />
@@ -866,19 +862,19 @@
       <item index="3" class="java.lang.String" itemvalue="Application.Sync" />
       <item index="4" class="java.lang.String" itemvalue="Application.ThreadComm" />
       <item index="5" class="java.lang.String" itemvalue="Application.enumeration" />
-      <item index="6" class="java.lang.String" itemvalue="Java Scratch.Test" />
-      <item index="7" class="java.lang.String" itemvalue="Java Scratch.Test (1)" />
-      <item index="8" class="java.lang.String" itemvalue="Java Scratch.ZonedDateTimeTest" />
-      <item index="9" class="java.lang.String" itemvalue="Java Scratch.MyStringList" />
-      <item index="10" class="java.lang.String" itemvalue="Application.TruthTable" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TruthTable" />
+      <item index="7" class="java.lang.String" itemvalue="Application.expressionLambda" />
+      <item index="8" class="java.lang.String" itemvalue="Application.genericInterface" />
+      <item index="9" class="java.lang.String" itemvalue="Application.LambdaArgumentDemo" />
+      <item index="10" class="java.lang.String" itemvalue="Application.InstanceMethodReferences" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TruthTable" />
-        <item index="1" class="java.lang.String" itemvalue="Java Scratch.MyStringList" />
-        <item index="2" class="java.lang.String" itemvalue="Java Scratch.Test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Java Scratch.ZonedDateTimeTest" />
-        <item index="4" class="java.lang.String" itemvalue="Java Scratch.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InstanceMethodReferences" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LambdaArgumentDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.genericInterface" />
+        <item index="3" class="java.lang.String" itemvalue="Application.expressionLambda" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TruthTable" />
       </list>
     </recent_temporary>
   </component>
@@ -950,11 +946,33 @@
       <workItem from="1501287837424" duration="1138000" />
       <workItem from="1501460134100" duration="198000" />
       <workItem from="1501596128729" duration="885000" />
+      <workItem from="1501679343559" duration="686000" />
+      <workItem from="1501682778561" duration="608000" />
+      <workItem from="1501715698906" duration="1686000" />
+      <workItem from="1501815612433" duration="1289000" />
+      <workItem from="1501855764688" duration="4862000" />
+      <workItem from="1501885136905" duration="598000" />
+      <workItem from="1501903636019" duration="156000" />
+      <workItem from="1502116075137" duration="1535000" />
+      <workItem from="1502197070285" duration="108000" />
+      <workItem from="1502200845832" duration="596000" />
+      <workItem from="1502232406403" duration="2114000" />
+      <workItem from="1502288709937" duration="3135000" />
+      <workItem from="1502375143334" duration="615000" />
+      <workItem from="1502464278910" duration="523000" />
+      <workItem from="1502555816437" duration="60000" />
+      <workItem from="1502556112353" duration="1442000" />
+      <workItem from="1502746972923" duration="109000" />
+      <workItem from="1502804249065" duration="71000" />
+      <workItem from="1503118979074" duration="198000" />
+      <workItem from="1503496341773" duration="65000" />
+      <workItem from="1503536644560" duration="100000" />
+      <workItem from="1503536784933" duration="335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80243000" />
+    <option name="totallyTimeSpent" value="101134000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -966,30 +984,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="688" y="23" width="752" height="803" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="30" width="1440" height="797" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4900285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49293786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49800798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47759104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47832167" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1010,7 +1028,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambda/LambdaArgumentDemo.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1019,127 +1045,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/threads/threadsynchronize/Sync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadsynchronize/SumArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadsynchronize/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadSuspend/Suspend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookDemo/Book.java" />
-    <entry file="file://$PROJECT_DIR$/src/bookDemo/BookDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/threads/threadSuspend/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadbasic/MyThreadExt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadComm/ThreadComm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadComm/TickTock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/general/WebDriverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadbasic/ExtendedThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadbasic/MultiThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threads/threadComm/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trafficlight/TrafficLightColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="381" column="29" lean-forward="false" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trafficlight/TrafficLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trafficlight/TrafficLightSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/generics/SimpGen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1338,17 +1243,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/applet/MyPApplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/general/CompareFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/MyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/NumericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/SomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/NumericFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/MyParamValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/genericInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/expressionLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/blockLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaArgumentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/IntPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/IntPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/MyIntNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/MyIntPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/StaticMethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/MyIntNumPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodReferences/InstanceMethodReferencesDemoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applet/LifeExpectancy.java" />
+    <entry file="file://$PROJECT_DIR$/src/applet/MyPApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1409,7 +1448,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1417,7 +1455,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>cglib-nodep-3.2.4</last-edited>
+          <last-edited>core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1428,5 +1466,55 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>

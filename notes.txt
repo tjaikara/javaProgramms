@@ -55,3 +55,9 @@ Lambda Expressions:
     functional interface defines the target type of a lambda expression
     a lambda expression can be used only in a context in which a target type is specified
 
+Reference Methods
+1. Static method references
+2. Instance method references
+
+Constructor References
+
