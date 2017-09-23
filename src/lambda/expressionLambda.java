@@ -39,7 +39,7 @@ public class expressionLambda {
 
         StringTest isIn = (a, b)-> a.indexOf(b) != -1;
 
-        String str = " This is a test";
+        String str = " This is a AvroToJson";
 
         System.out.println("Testing String: "+str);
 
