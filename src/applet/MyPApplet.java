@@ -2,8 +2,10 @@ package applet;
 
 import processing.core.*;
 
-import java.security.Timestamp;
-import java.util.concurrent.TimeUnit;
+/*
+<applet code="MyPApplet" width=300 height=80>
+</applet>
+ */
 
 public class MyPApplet extends PApplet {
 
