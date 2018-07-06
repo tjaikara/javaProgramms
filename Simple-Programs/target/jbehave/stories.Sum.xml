@@ -1,0 +1,12 @@
+<story path="stories/Sum.story" title="">
+<scenario keyword="Scenario:" title="5 added">
+<step outcome="successful">Given a var x with value <parameter>2</parameter></step>
+<step outcome="successful">When I add x with <parameter>5</parameter></step>
+<step outcome="successful">Then x should be equal to <parameter>7</parameter></step>
+</scenario>
+<scenario keyword="Scenario:" title="9 divison">
+<step outcome="successful">Given a var x with value <parameter>81</parameter></step>
+<step outcome="successful">When I divide x by <parameter>9</parameter></step>
+<step outcome="successful">Then x should be equal to <parameter>9</parameter></step>
+</scenario>
+</story>
