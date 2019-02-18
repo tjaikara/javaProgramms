@@ -9,6 +9,7 @@ package threads.threadbasic;
 public class MultiThreads {
 
     public static void main(String args[]){
+
         System.out.println("Main thread starting...");
 
         MyThread myThread = new MyThread("Child #1");

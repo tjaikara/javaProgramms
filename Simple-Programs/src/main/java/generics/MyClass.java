@@ -1,6 +1,7 @@
 package generics;
 
-class MyClass<T> implements  Containment <T>{ //Any class that implements a generic interface must itself be generic
+class MyClass<T> implements  Containment <T>{
+    //Any class that implements a generic interface must itself be generic
 
     T[] array;
 

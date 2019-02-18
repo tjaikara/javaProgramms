@@ -9,15 +9,15 @@ public class TruthTable {
 
         System.out.println("-----------------P and Q truth table with bit values -------------------------");
         System.out.println();
-        System.out.print("P |\tQ |\tP AND Q|\tP OR Q |\tP XOR Q |\tNOT P |\n");
+        System.out.print("P \t| \tQ |\tP AND Q |\tP OR Q  |\tP XOR Q |\tNOT P |\n");
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
-                int logicAND = i & j;
-                int logicOR = i | j;
-                int logicXOR = i ^ j;
-                int logicNOT = "0".equals(String.valueOf(i)) ? 1 : 0;
 
-                System.out.print(i + " |\t" + j + " | \t" + logicAND + "  |\t\t" + logicOR + "  | \t\t" + logicXOR + "   |\t " + logicNOT + "\t  |\n");
+                System.out.print(i + " \t| \t" + j + " | \t"
+                                + (i & j) + " \t| \t\t"
+                                + (i | j) + " \t| \t\t"
+                                + (i ^ j) + " \t| \t"
+                                + ("0".equals(String.valueOf(i)) ? 1 : 0) + "\t  |\n");
             }
         }
 
@@ -31,11 +31,11 @@ public class TruthTable {
                 boolean p = getBooleanValue(i);
                 boolean q = getBooleanValue(j);
 
-                System.out.print(("true".equals(String.valueOf(p)) ? p + "  |\t": p +" |\t") + ("true".equals(String.valueOf(q)) ? q + "  |\t": q +" |\t") +
-                        ("true".equals(String.valueOf(String.valueOf(p&q))) ? String.valueOf(p&q) + "    |\t": String.valueOf(p&q) +"   |\t")
-                        + ("true".equals(String.valueOf(String.valueOf(p|q))) ? String.valueOf(p|q) + "   |\t": String.valueOf(p|q) +"  |\t")
-                        + ("true".equals(String.valueOf(String.valueOf(p^q))) ? String.valueOf(p^q) + "    |\t": String.valueOf(p^q) +"   |\t")
-                        + ("true".equals(String.valueOf(!p)) ? String.valueOf(!p) + "  |\n": String.valueOf(!p) +" |\n"));
+                System.out.print((p ? "true " : "false") +" |\t"+ (q ? "true " : "false") +" |\t"
+                        + (p&q ? "true " : "false") +"   |\t"
+                        + (p|q ? "true " : "false") +"  |\t"
+                        + (p^q ? "true " : "false") +"   |\t"
+                        + (!p ? "true " : "false") +" |\n");
             }
         }
     }

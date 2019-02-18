@@ -20,7 +20,7 @@ public class WebDriverTest {
 
     public static void checkSeleniumHQinFireFox() throws InterruptedException{
 
-        System.setProperty("webdriver.gecko.driver", "/Users/taikara/Downloads/driver/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "geckodriver");
         WebDriver driver = new FirefoxDriver();
         driver.get("http://seleniumhq.org");
         TimeUnit.SECONDS.sleep(10);

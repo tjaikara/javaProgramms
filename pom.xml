@@ -8,7 +8,6 @@
     <artifactId>javaProgramms</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>avro-to-json</module>
         <module>Simple-Programs</module>
         <module>GUI</module>
         <module>Test</module>
